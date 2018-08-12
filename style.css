@@ -1,0 +1,12 @@
+.center{
+    margin: auto;
+    width: 50%;
+}
+
+.top-buffer{
+    margin-top:15px;
+}
+
+.left-buffer{
+    margin-left: 10px;
+}
